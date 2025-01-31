@@ -3,15 +3,15 @@
 <sub>Welcome to my GitHub profile! I'm a passionate developer with a focus on back-end development, eager to learn new things about modern web development and technology.</sub>
 ---
 ### **🔧 Technologies & Tools**  
-✔ **Languages:** Python  
-✔ **Frameworks:** Django, Django REST Framework (DRF)  
-✔ **Databases:** MySQL, SQL Server  
-✔ **Version Control:** Git, GitHub  
-✔ **Containerization & Virtual Environments:** Docker, Pipenv  
-✔ **API Development & Testing:** REST APIs, Postman  
-✔ **Web Technologies:** HTML5, CSS, Bootstrap, JavaScript, JSON  
-✔ **Operating Systems:** Linux  
-✔ **Cloud & Deployment:** Heroku  
+• **Languages:** Python  
+• **Frameworks:** Django, Django REST Framework (DRF)  
+• **Databases:** MySQL, SQL Server  
+• **Version Control:** Git, GitHub  
+• **Containerization & Virtual Environments:** Docker, Pipenv  
+• **API Development & Testing:** REST APIs, Postman  
+• **Web Technologies:** HTML5, CSS, Bootstrap, JavaScript, JSON  
+• **Operating Systems:** Linux  
+• **Cloud & Deployment:** Heroku  
 
 ## 📈 GitHub Stats  
 
