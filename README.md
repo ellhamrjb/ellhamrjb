@@ -1,16 +1,28 @@
-## Hi there 👋
+## Elham Rajabi - Computer Engineer | Backend Developer
 
-<!--
-**ellhamrjb/ellhamrjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>Welcome to my GitHub profile! I'm a passionate developer with a focus on back-end development, eager to learn new things about modern web development and technology.</sub>
+---
+### **🔧 Technologies & Tools**  
+✔ **Languages:** Python  
+✔ **Frameworks:** Django, Django REST Framework (DRF)  
+✔ **Databases:** MySQL, SQL Server  
+✔ **Version Control:** Git, GitHub  
+✔ **Containerization & Virtual Environments:** Docker, Pipenv  
+✔ **API Development & Testing:** REST APIs, Postman  
+✔ **Web Technologies:** HTML5, CSS, Bootstrap, JavaScript, JSON  
+✔ **Operating Systems:** Linux  
+✔ **Cloud & Deployment:** Heroku  
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ellhamrjb&show_icons=true&theme=radical" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellhamrjb&theme=radical" width="49%">
+</p>
+---
+## 📬 Connect with Me  
+
+💼 **LinkedIn:** http://linkedin.com/in/ellhamrjb  
+📧 **Email:** ellhamrjb@gmail.com
+---
+* Always open to **collaborations, open-source contributions, and new opportunities!**
