@@ -23,7 +23,7 @@
 
 ## 📬 Connect with Me  
 
-•**LinkedIn:** http://linkedin.com/in/ellhamrjb  
-• **Email:** ellhamrjb@gmail.com
+-**LinkedIn:** http://linkedin.com/in/ellhamrjb  
+-**Email:** ellhamrjb@gmail.com
 ---
 * Always open to **collaborations, open-source contributions, and new opportunities!**
