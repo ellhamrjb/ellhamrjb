@@ -1,6 +1,6 @@
 ## Elham Rajabi - Computer Engineer | Backend Developer
 
-<sub>Welcome to my GitHub profile! I'm a passionate developer with a focus on back-end development, eager to learn new things about modern web development and technology.</sub>
+<sub>Welcome to my GitHub profile😃 I'm a passionate developer with a focus on back-end development, eager to learn new things about modern web development and technology.</sub>
 ---
 ### **🔧 Technologies & Tools**  
 • **Languages:** Python  
