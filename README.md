@@ -13,17 +13,19 @@
 • **Operating Systems:** Linux  
 • **Cloud & Deployment:** Heroku  
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellhamrjb&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellhamrjb&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ellhamrjb&show_icons=true&theme=radical" style="width: 49%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellhamrjb&theme=radical" style="width: 49%;">
 </p>
+
+
 
 
 ## 📬 Connect with Me  
 
--**LinkedIn:** http://linkedin.com/in/ellhamrjb  
+-**LinkedIn:** https://linkedin.com/in/ellhamrjb  
 -**Email:** ellhamrjb@gmail.com
 ---
 * Always open to **collaborations, open-source contributions, and new opportunities!**
