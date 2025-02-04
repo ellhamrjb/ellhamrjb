@@ -14,13 +14,11 @@
 • **Cloud & Deployment:** Heroku  
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellhamrjb&show_icons=true&theme=radical" style="width: 49%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellhamrjb&theme=radical" style="width: 49%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ellhamrjb&show_icons=true&theme=radical" >
+  <img src="https://streak-stats.demolab.com?user=ellhamrjb&theme=radical" >
 </p>
-
-
+ 
 
 
 ## 📬 Connect with Me  
