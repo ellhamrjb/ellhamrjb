@@ -14,8 +14,7 @@
 • **Cloud & Deployment:** Heroku  
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellhamrjb&show_icons=true&theme=radical" >
+<p>
   <img src="https://streak-stats.demolab.com?user=ellhamrjb&theme=radical" >
 </p>
  
