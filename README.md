@@ -5,7 +5,7 @@
 ### **🔧 Technologies & Tools**  
 • **Languages:** Python  
 • **Frameworks:** Django, Django REST Framework (DRF)  
-• **Databases:** MySQL, SQL Server , PostgreSQL, Redis
+• **Databases:** MySQL, SQL Server , PostgreSQL, Redis  
 • **Version Control:** Git, GitHub  
 • **Containerization & Virtual Environments:** Docker, Pipenv  
 • **API Development & Testing:** REST APIs, Postman  
